@@ -1,4 +1,6 @@
-body{
-	background: lightseagreen;
-	color: #fff;
-}
+@import "common";
+@import "layout";
+@import "work";
+@import "index";
+@import "blog";
+@import "about";
